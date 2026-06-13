@@ -16,3 +16,5 @@ if GOOGLE_API_KEY:
         print(f"모델 목록을 가져오는 중 오류 발생: {e}")
 else:
     print("Gemini API 키를 설정해주세요.")
+
+# test
